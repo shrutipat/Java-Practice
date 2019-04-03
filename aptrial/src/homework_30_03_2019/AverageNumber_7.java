@@ -2,6 +2,10 @@ package homework_30_03_2019;
 
 import java.util.Scanner;
 
+/**
+* This programme is working as expected
+*/
+
     public class AverageNumber_7 {
 
 
