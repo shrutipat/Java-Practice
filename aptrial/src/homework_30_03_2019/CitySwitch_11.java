@@ -13,24 +13,25 @@ public class CitySwitch_11 {
          */
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter City initial : ");
-        char city = scanner.next().charAt(0);
+        String city = scanner.next();
+        city = city.toLowerCase();
         switch (city) {
-            case 'a':
+            case "a":
                 System.out.println("City name is Ahmedabad");
                 break;
-            case 'b':
+            case "b":
                 System.out.println("City name is Bombay");
                 break;
-            case 'c':
+            case "c":
                 System.out.println("City name is Calcutta");
                 break;
-            case 'd':
+            case "d":
                 System.out.println("City name is Delhi");
                 break;
-            case 'e':
+            case "e":
                 System.out.println("City name is Edinbourgh");
                 break;
-            case 'f':
+            case "f":
                 System.out.println("City name is France");
                 break;
             default:
