@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class InterChangeValue_5 {
 
+    /**
+     * This programme is working as expected
+     * Before swapping and After swapping are very good for user to understand result.
+     */
+
     public static void main(String[] args) {
         int a,b;
         Scanner scan = new Scanner(System.in);

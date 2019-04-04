@@ -3,6 +3,15 @@ package homework_30_03_2019;
 import java.util.Scanner;
 
 public class MarkSheet_3 {
+    /**
+     * This programme is not working as expected for 35 marks
+     * Enter 35 marks for all three subject
+     * Expected Result: pass and Grade is C
+     * Actual Result : fail and C.
+     * If student fail in one subject result should be fail. But for your programme gives A Grade and pass result
+     */
+
+
 
     public static void main(String[] args)
     {

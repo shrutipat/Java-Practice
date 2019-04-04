@@ -6,6 +6,10 @@ public class SalarySlip_6 {
 
     public static void main(String[] args) {
 
+        /**
+         * Very well executed programme
+         */
+
         int emp_ID, basic_Salary;
         float gross_Salary;
         float hra, da, ta, pf;

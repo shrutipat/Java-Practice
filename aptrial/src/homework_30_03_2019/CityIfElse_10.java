@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class CityIfElse_10 {
 
+    /**
+     * Enter first letter of City between a to f :     description wrong as i have entered G then shown Goa
+     * Please check and make correction
+     */
+
         public static void main(String[] args) {
 
             Scanner scan = new Scanner(System.in);

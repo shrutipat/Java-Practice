@@ -4,8 +4,14 @@ import java.util.Scanner;
 
 public class EvenOdd2_8 {
 
+    /**
+     * This programme is working as expected
+     * Good Work
+     */
+
     public static void main(String args[])
     {
+
         int x;
         System.out.println("Enter an integer to check if it is odd or even");
         Scanner in = new Scanner(System.in);

@@ -5,6 +5,12 @@ import java.util.Scanner;
 public class CitySwitch_11 {
 
     public static void main(String[] args) {
+
+        /**
+         * Capital letter is not working
+         * please make correction so it work with capital and small letter
+         * overall good work.
+         */
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter City initial : ");
         char city = scanner.next().charAt(0);

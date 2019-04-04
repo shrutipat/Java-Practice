@@ -3,6 +3,10 @@ package homework_30_03_2019;
 import java.util.Scanner;
 
 public class EvenOdd_1 {
+    /**
+     * This programme is working as expected
+     * Good Work
+     */
 
            public static void main(String[] args) {
 

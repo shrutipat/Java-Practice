@@ -5,6 +5,10 @@ import java.util.Scanner;
 public class WeekNames_15 {
     public static void main(String[] args) {
 
+        /**
+         * Working as expected
+         */
+
         int day;
         Scanner sc = new Scanner(System.in);
 

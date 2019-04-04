@@ -5,7 +5,8 @@ import java.util.Scanner;
     public class AverageNumber_7 {
 
         /**
-         * This programme
+         * This programme is working as expected
+         * Good Work
          */
 
 

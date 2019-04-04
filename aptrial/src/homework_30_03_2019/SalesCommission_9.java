@@ -3,6 +3,9 @@ package homework_30_03_2019;
 import java.util.Scanner;
 
 public class SalesCommission_9 {
+    /**
+     * Well Done
+     */
 
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);

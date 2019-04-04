@@ -6,6 +6,10 @@ public class NumberAlphabetSymbol_14 {
 
     public static void main(String[] args) {
 
+        /**
+         * This programme is working as expected
+         * */
+
         Scanner scan= new Scanner(System.in);
         System.out.println("Input here: ");
         char x=scan.next().charAt(0);

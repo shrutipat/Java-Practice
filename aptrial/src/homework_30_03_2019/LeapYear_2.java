@@ -4,6 +4,13 @@ import java.util.Scanner;
 
 public class LeapYear_2 {
 
+    /**
+     * This programme is not working as expected.
+     * Enter -1
+     * Expected result:- Invalid input or -1
+     * Actual result :- -1 is not Leap Year
+     */
+
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Year : ");

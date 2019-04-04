@@ -7,6 +7,10 @@ import java.util.Scanner;
 
 public class CalculatorOperators_12 {
 
+    /**
+     * This programme have bug in Substraction
+     * Please check and make correction
+     */
     public static void main (String[] args){
 
         System.out.println();

@@ -6,6 +6,11 @@ public class DivisibleBy3and5_13 {
 
     public static void main(String[] args) {
 
+    /**
+     * This programme is working as expected
+     * Good Work
+    */
+
         int number[] = new int[100];
 
         for (int i = 0; i < 100; i++) {
